@@ -1,0 +1,9 @@
+diff a/Src/Application/CPlayer.cpp b/Src/Application/CPlayer.cpp	(rejected hunks)
+@@ -109,7 +109,6 @@
+ 	shurikenseInst = Utility::Sound_Loading(shurikense, "Resource/Sound/shuriken.WAV");
+ 	hitseInst = Utility::Sound_Loading(hitse,"Resource/Sound/hit.WAV");
+ 	healseInst = Utility::Sound_Loading(healse, "Resource/Sound/heal.WAV");
+-	keypuseInst = Utility::Sound_Loading(healse, "Resource/Sound/key.WAV");
+ }
+ 
+ // �ď�����

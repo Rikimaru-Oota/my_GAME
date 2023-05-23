@@ -1,0 +1,12 @@
+diff a/Src/Application/Utility.h b/Src/Application/Utility.h	(rejected hunks)
+@@ -131,8 +131,8 @@
+ // �{�X�T�C�Y
+ namespace BOSS_SIZE
+ {
+-	const float LEFT = 40 + 40 ;
+-	const float RIGHT = 73 - 40 ;
++	const float LEFT = 40;
++	const float RIGHT = 73;
+ 	const float TOP = 70;
+ 	const float DOWN = 80;
+ }
